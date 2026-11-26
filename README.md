@@ -46,6 +46,8 @@ Task definition → 集 (Collection) → Grain Map → 合 (Synthesis) → 生 (
 13. Practical Application to SHIKARDOS Tasks.
 14. Reflexive Application, Limitations, Ethics and Prospects.
 
+Full English translation of all chapters is available in the [`en/`](en/) directory.
+
 ## Key Concepts
 
 See [GLOSSARY.md](GLOSSARY.md) for a bilingual (EN/RU) glossary of core terms: grain, collection, synthesis, birth, the Grain Map, the "blind bee" rule, and others.
