@@ -1,52 +1,64 @@
-# Принцип Зерна (集-合-生)
+# The Grain Principle (集-合-生)
 
-**Докторская диссертация.** Интегративная методология междисциплинарного поиска и синтеза новых решений.
+**Language:** [English](README.md) | [Русский](README.ru.md)
 
-**Автор концепции / Concept originator:** Гажиу Юрий Георгиевич (Yuri Georgievich Gazhiu).
+**Doctoral dissertation.** An integrative methodology for interdisciplinary search and synthesis of new solutions.
 
----
-
-## Аннотация
-
-Работа посвящена разработке методологии создания новых решений на основе триады **集 (Сбор) — 合 (Синтез) — 生 (Рождение)**. Метод объединяет целенаправленный междисциплинарный поиск, функциональное описание найденных элементов («Карта зёрен»), анализ совместимости и противоречий, целостный синтез и независимую проверку результата в единый воспроизводимый цикл.
-
-Центральное понятие — **зерно**: функционально значимый элемент решения, отделённый от конкретного носителя. Именно оно позволяет сравнивать разнородные решения и переносить принципы между областями знания.
-
-## Оглавление
-
-**Блок I. Основания исследования**
-1. Постановка научной проблемы и исследовательская программа.
-2. Исторические корни методов создания нового.
-3. Философские и методологические основания синтеза и нового качества.
-4. Системные, эволюционные и когнитивные модели формирования новых структур.
-
-**Блок II. Современная научно-технологическая среда**
-5. Современные методы инновационного поиска и рекомбинации знаний.
-6. Теоретическая модель Принципа Зерна.
-
-**Блок III. Разработка методологии**
-7. Формализация этапа 集 — Сбор.
-8. Карта зёрен.
-9. Формализация этапа 合 — Синтез.
-10. Формализация этапа 生 — Рождение.
-11. Модель оценки, проверки и развития результатов.
-
-**Блок IV. Применение и проверка**
-12. Программная реализация и искусственный интеллект.
-13. Практическое применение к задачам SHIKARDOS.
-14. Рефлексивное применение, ограничения, этика и перспективы.
+**Concept originator:** Гажиу Юрий Георгиевич (Yuri Georgievich Gazhiu).
 
 ---
 
-## Авторство и роль ИИ
+## Abstract
 
-Автор концепции — Гажиу Юрий Георгиевич. Текст написан совместными усилиями: Юрий задаёт концепцию и направление, ИИ-напарник (Елей, DeepSeek) готовит и редактирует текст. Роль ИИ указана в работе явно и не является источником авторства.
+This work develops a methodology for creating new solutions based on the triad **集 (Collection) — 合 (Synthesis) — 生 (Birth)**. The method unites purposeful interdisciplinary search, functional description of the found elements (the "Grain Map"), analysis of compatibility and contradictions, holistic synthesis, and independent verification of the result into a single reproducible cycle.
 
-## Лицензия
+The central concept is the **grain**: a functionally significant element of a solution, separated from its concrete carrier. It is the grain that makes it possible to compare heterogeneous solutions and transfer principles between domains of knowledge.
+
+## The Cycle
+
+```
+Task definition → 集 (Collection) → Grain Map → 合 (Synthesis) → 生 (Birth) → Verification
+                          ↑                                                          |
+                          └──────────────────────── feedback ←──────────────────────┘
+```
+
+## Table of Contents
+
+**Part I. Foundations of the Study**
+1. Statement of the Scientific Problem and Research Program.
+2. Historical Roots of Methods of Creating the New.
+3. Philosophical and Methodological Foundations of Synthesis and Emergent Quality.
+4. Systemic, Evolutionary and Cognitive Models of New Structure Formation.
+
+**Part II. The Modern Scientific and Technological Environment**
+5. Modern Methods of Innovation Search and Knowledge Recombination.
+6. The Theoretical Model of the Grain Principle.
+
+**Part III. Development of the Methodology**
+7. Formalization of the 集 (Collection) Stage.
+8. The Grain Map.
+9. Formalization of the 合 (Synthesis) Stage.
+10. Formalization of the 生 (Birth) Stage.
+11. A Model for Evaluation, Experimental Verification and Development of Results.
+
+**Part IV. Application and Verification**
+12. Software Implementation and Artificial Intelligence.
+13. Practical Application to SHIKARDOS Tasks.
+14. Reflexive Application, Limitations, Ethics and Prospects.
+
+## Key Concepts
+
+See [GLOSSARY.md](GLOSSARY.md) for a bilingual (EN/RU) glossary of core terms: grain, collection, synthesis, birth, the Grain Map, the "blind bee" rule, and others.
+
+## Authorship and the Role of AI
+
+Concept originator — Гажиу Юрий Георгиевич (Yuri Georgievich Gazhiu). The text is written jointly: Yuri defines the concept and direction, while an AI companion (Eley, DeepSeek) prepares and edits the text. The role of AI is stated explicitly in the work and is not a source of authorship.
+
+## License
 
 This work is licensed under the **Creative Commons Attribution 4.0 International License** (CC BY 4.0).
-Полный текст лицензии: https://creativecommons.org/licenses/by/4.0/
+Full license text: https://creativecommons.org/licenses/by/4.0/
 
-## Цитирование
+## Citation
 
-См. файл `CITATION.cff`.
+See the `CITATION.cff` file.
