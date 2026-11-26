@@ -48,6 +48,13 @@ Task definition → 集 (Collection) → Grain Map → 合 (Synthesis) → 生 (
 
 Full English translation of all chapters is available in the [`en/`](en/) directory.
 
+## Download
+
+- [SHIKARDOS_ZERNO_RU.pdf](pdf/SHIKARDOS_ZERNO_RU.pdf) — Russian (PDF)
+- [SHIKARDOS_ZERNO_EN.pdf](pdf/SHIKARDOS_ZERNO_EN.pdf) — English (PDF)
+- [SHIKARDOS_ZERNO_RU.docx](docx/SHIKARDOS_ZERNO_RU.docx) — Russian (Word)
+- [SHIKARDOS_ZERNO_EN.docx](docx/SHIKARDOS_ZERNO_EN.docx) — English (Word)
+
 ## Key Concepts
 
 See [GLOSSARY.md](GLOSSARY.md) for a bilingual (EN/RU) glossary of core terms: grain, collection, synthesis, birth, the Grain Map, the "blind bee" rule, and others.

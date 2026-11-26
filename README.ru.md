@@ -48,6 +48,13 @@
 
 Полный английский перевод всех глав — в папке [`en/`](en/).
 
+## Скачать
+
+- [SHIKARDOS_ZERNO_RU.pdf](pdf/SHIKARDOS_ZERNO_RU.pdf) — на русском (PDF)
+- [SHIKARDOS_ZERNO_EN.pdf](pdf/SHIKARDOS_ZERNO_EN.pdf) — на английском (PDF)
+- [SHIKARDOS_ZERNO_RU.docx](docx/SHIKARDOS_ZERNO_RU.docx) — на русском (Word)
+- [SHIKARDOS_ZERNO_EN.docx](docx/SHIKARDOS_ZERNO_EN.docx) — на английском (Word)
+
 ## Ключевые понятия
 
 См. [GLOSSARY.md](GLOSSARY.md) — двуязычный (RU/EN) глоссарий ключевых терминов: зерно, сбор, синтез, рождение, Карта зёрен, правило «слепой пчелы» и другие.
